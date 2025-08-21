@@ -52,5 +52,5 @@ It comprises of 1000000 rows and 17 features. And is split into train and test b
 - Gaussion Naive Bayes
 - Bernoulli Naive Bayes
 - Multi-layered Perceptron
-- XgBoost##
+- XgBoost
 - Artificial Neural Network 
