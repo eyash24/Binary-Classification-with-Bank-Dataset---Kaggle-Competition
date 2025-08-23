@@ -2,7 +2,7 @@
 It is a part of the Kaggle Playground Series Season 5 episode 8
 
 ## About the original dataset:
-Link to original dataset: [Bank Marketing Dataset Full](https://www.kaggle.com/datasets/sushant097/bank-marketing-dataset-full?select=bank-full.csv) \
+Link to original dataset: [Bank Marketing Dataset Full](https://www.kaggle.com/datasets/sushant097/bank-marketing-dataset-full?select=bank-full.csv)
 
 The dataset contains 45,211 entries with 17 attributes. The attributes represent client information and campaign details, and they include both categorical and numerical data.
 - age: Age of the client (numeric)
@@ -52,5 +52,5 @@ It comprises of 1000000 rows and 17 features. And is split into train and test b
 - Gaussion Naive Bayes
 - Bernoulli Naive Bayes
 - Multi-layered Perceptron
-- XgBoost##
+- XgBoost
 - Artificial Neural Network 

@@ -3,3 +3,5 @@ results/
 45_model_result.csv
 *.pkl
 sample_submission.csv
+modified_training_data/
+todo_guide.txt
