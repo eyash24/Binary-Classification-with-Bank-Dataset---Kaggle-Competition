@@ -1,10 +1,11 @@
 # Bugs:
     Preprocessing:
-        ☐ Missing Index col in Oversampling and SMOTE
+        ☐ Missing Index col in Oversampling and SMOTE 
     
     Model_training:
-        - Train svc, gnb, bnb, mlp
-        - Train nn
+        - Train svc
+        - Train nn (base phase 1 done)
+
 
 
 

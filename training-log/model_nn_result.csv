@@ -1,0 +1,3 @@
+Name,Epochs,batch_size,Loss_fn,Optimizer,LR,Train Data Type,Accuracy,Precision,Recall,F1 score,ROC_AUC Score
+nn_base,50,32,BCE Loss,Adam,0.001,OverSampling,0.9154533333333333,0.7465404224326293,0.45308873908719194,0.5639227013272815,0.7159910799801322
+
